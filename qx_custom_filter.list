@@ -1,0 +1,72 @@
+# 四轮抓包发现的第三方广告SDK
+host-keyword,beizi,reject
+host-keyword,mentamob,reject
+host-keyword,advlion,reject
+host-keyword,zhangyuyidong,reject
+host-keyword,hubcloud,reject
+host-keyword,66mobi,reject
+host-keyword,adwangmai,reject
+host-keyword,yunxish,reject
+host-keyword,iggrowth,reject
+host-keyword,hpplay,reject
+host-keyword,ubixioe,reject
+host-keyword,vlion,reject
+host-keyword,halomobi,reject
+# 穿山甲/字节
+host-keyword,pangolin,reject
+host-keyword,pglstatp,reject
+host-suffix,bytedance.net,reject
+host-suffix,bytedanceapi.com,reject
+host-suffix,bytescm.com,reject
+host-suffix,byteurl.cn,reject
+host-suffix,ctobsnssdk.com,reject
+host-suffix,volccdn.com,reject
+# 腾讯广告
+host-suffix,e.qq.com,reject
+host-suffix,gdt.qq.com,reject
+host-suffix,gdtimg.com,reject
+host-suffix,ugdtimg.com,reject
+# 百度广告
+host-suffix,cpro.baidu.com,reject
+host-suffix,pos.baidu.com,reject
+host-suffix,e.baidu.com,reject
+host-suffix,mobads.baidu.com,reject
+host-suffix,als.baidu.com,reject
+host-suffix,nsclick.baidu.com,reject
+host-suffix,spcode.baidu.com,reject
+host-suffix,sofire.baidu.com,reject
+# 阿里广告
+host-suffix,umeng.com,reject
+host-suffix,umengcloud.com,reject
+host-suffix,tanx.com,reject
+host-suffix,alimama.com,reject
+host-suffix,alimama.cn,reject
+host-suffix,mmstat.com,reject
+# 快手
+host-suffix,kspurl.com,reject
+host-suffix,adukwai.com,reject
+# 国际SDK
+host-suffix,inmobi.com,reject
+host-suffix,inmobi.cn,reject
+host-suffix,vungle.com,reject
+host-suffix,ironsrc.com,reject
+host-suffix,mintegral.com,reject
+host-suffix,chartboost.com,reject
+host-suffix,admob.com,reject
+host-suffix,mopub.com,reject
+host-suffix,unity3d.com,reject
+host-keyword,applovin,reject
+host-keyword,taboola,reject
+# 通用广告
+host-suffix,doubleclick.net,reject
+host-suffix,googlesyndication.com,reject
+host-suffix,appsflyer.com,reject
+host-suffix,adjust.com,reject
+host-keyword,adsdk,reject
+host-keyword,adservice,reject
+host-keyword,adsystem,reject
+host-keyword,advert,reject
+host-keyword,googleads,reject
+host-keyword,guanggao,reject
+host-keyword,analytics.,reject
+host-keyword,crashlytics,reject
